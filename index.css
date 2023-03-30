@@ -12,10 +12,12 @@ body {
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
+    padding-bottom: 10px;
 }
 #stock{
     background: white;
     max-width: 80%;
+    display: inline;
 }
 
 h1 {
